@@ -48,3 +48,8 @@ permalink: /teaching
 - **History of Economic Thought** (Spring 2019)
 
 - **Econometrics and Advanced Econometrics** (Fall 2018)
+
+## IMG Academy, Bradenton, Florida
+
+### Upper School Teacher 
+- **Algebra II & Pre-Calculus** (Academic Year 2017-18)
