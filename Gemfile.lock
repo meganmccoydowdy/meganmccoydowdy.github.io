@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/academicbio/academic-minima.git
+  revision: 1f57c68962cd92f17c90317338a7cbd29dd028c5
+  specs:
+    academic-minima (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -252,6 +258,7 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
+  academic-minima!
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
