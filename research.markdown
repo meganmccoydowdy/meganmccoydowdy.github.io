@@ -6,7 +6,7 @@ permalink: /research
 
 ## Working Papers
 
-- Wage Returns to Workplace Flexibility (Job Market Paper) [*(Paper)*](https://drive.google.com/file/d/1JYs3HwU0UEDgomSug0wL4KAxzeeB45ML/view){:target="_blank"} 
+- Wage Returns to Workplace Flexibility (Job Market Paper) [*(PDF)*](https://drive.google.com/file/d/1JYs3HwU0UEDgomSug0wL4KAxzeeB45ML/view){:target="_blank"} 
 
 - Workplace Flexibility in a Labor Search Model [*(Repository)*](https://github.com/meganmccoydowdy/flexibility-in-search-model){:target="_blank"}
 
