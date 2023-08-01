@@ -37,6 +37,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # END OF PREAMBLE / START OF MEGAN'S ADDITIONS
 
 gem "academic-minima", git: "https://github.com/academicbio/academic-minima.git"
-gem 'rake' , '>= 0.9.2'
 
+gem 'rake' , '>= 0.9.2'
 gem "webrick", "~> 1.8"
