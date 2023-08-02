@@ -15,11 +15,11 @@ permalink: /teaching
 
 ### Instructor of Record
 
-- **Intermediate Microeconomic Theory** (Summer 2021, 2022)
+- **Intermediate Microeconomic Theory** [Summer 2022 Course Evaluations](https://drive.google.com/file/d/1BMYlQrLQC4Qpt8x_T-HX1DHAT24V1CUM/view?usp=sharing){:target="_blank"}, [Summer 2021 Course Evaluations](https://drive.google.com/file/d/1R8QnHFKJKf6mZ40ldRdjmd-uhp-5rbB0/view?usp=sharing){:target="_blank"}
   - Adapted departmental material for this undergraduate economics and business majors' pre-requisite course to provide student-centered lectures and recitations in which students applied concepts during lecture and practiced problem-solving skills in collaborative learning activities during recitations
   - Integrated classroom technologies to provide a hybrid learning environment in 2021
 
-- **Labor Economics** (Summer 2020)
+- **Labor Economics** [Summer 2020 Course Evaluations](https://drive.google.com/file/d/17JvViQ0njJDOqKK3IFPXXMIt2BMPUd71/view?usp=sharing){:target="_blank"}
   - Designed a course in which upper-level undergraduate economics majors applied theory in problem sets and exams, analyzed journal articles, and worked in teams to create policy responses and evaluate the best course of action through forum discussions
   - Incorporated classroom technology to create an interactive experience for fully remote delivery
 
