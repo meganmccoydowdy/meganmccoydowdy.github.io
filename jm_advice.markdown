@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Teaching Job Market Advice"
-permalink: /teachingjobmarket
+title: "Job Market Advice"
+permalink: /jobmarketadvice
+order: 3
 ---
 
 While participating in the 2022-23 economics job market in search of a teaching-focused position, I found that the internet was lacking resources for my job market search: small liberal arts colleges and teaching (clinical) positions at larger universities. On this page, I hope to provide some job market advice and link to my documents with the goal of helping other individuals on the teaching market. While the information on this page reflects upon my own experience, I believe I had a successful market with 59 applications, 24 interview requests (18 completed), 9 flyout requests (5 completed), and 4 offers. 
@@ -19,7 +20,14 @@ I had a template cover letter for small liberal arts colleges and one for teachi
 
 ## Teaching Statement 
 
+When thinking about how to craft your teaching statement, ruminate on why you want a teaching position and what you do in your courses to find a common thread that will make you memorable in a stack of applications.
+In my mock interview for a teaching position, I received the sage advice of determining what my brand is; most search committees have a master spreadsheet on candidates with only a small space for details about who you are. Create the opportunity to stand out via your own brand or style of teaching.
 
+For example, I utilize a lot of active learning in my classroom, but I wanted my "brand" to focus on a specific type of active learning: peer-to-peer teaching. By creating this my central focal point for my teaching statement (and later interviews), I was able to connect my past experiences (working as a peer tutor in undergrad) to my current style (creating opportunities for cooperative learning activities so that students teach each other the material). I was able to emphasize my knowledge of pedagogical research (learning is social and students retain information better when they teach it) and discuss how peer-to-peer teaching could be implemented in small or large courses.
+
+If possible, give examples of how you have applied your teaching philosophy in your own classes. In many of my conversations with interviewers, I would be asked to elaborate on a specific activity discussed in my teaching statement.
+
+- [Teaching Statement](https://drive.google.com/file/d/120Px3GHSDbgRepnuADOPQtHwgBnEjm6d/view?usp=sharing){:target="_blank"} 
 
 ## Research Statement 
 
@@ -28,6 +36,14 @@ For a small liberal arts college, a professorship position requires research alo
 - [Research Statement](https://drive.google.com/file/d/1Uk1CneJDWBEhgZa8m41aNG946-ekph6R/view?usp=sharing){:target="_blank"}
 
 ## Job Market Timing 
+
+The teaching-focused market is bimodal: either it will be over early or it will feel like it’s dragging behind your industry and/or research focused peers. 
+
+Small liberal art college interviews, campus visits, and offers are very early. I received two offers prior to Christmas with deadlines close to the AEA meetings. One school was willing to delay their offer deadline until after the decision of an already-scheduled flyout; one school wanted a decision before the New Year. 
+
+Teaching positions at large (public) universities were interviewing after my small liberal arts college flyouts and expecting to give flyouts in late January or early February. Many of the universities are also hiring for tenure-track (research) positions along the typical timeline, and push teaching positions to after the traditional timeline. 
+
+When entering the teaching-focused job market, I suggest that you have a strong idea of what your preferences are for location, salary, and type of position. Some of the offers I knew were unlikely to convert to an acceptance due to the three considerations above. However, it was to my advantage to give these interview and flyout opportunities my best effort to either push the timelines or increase offers at schools that I was more interested in working at. 
 
 
 ##  Interviews
@@ -90,3 +106,28 @@ I almost received a question about how I would contribute to service, but it was
 2. What resources are there for me as an instructor (i.e., undergraduate learning assistants, graduate assistants)?
 3. How do you measure teaching excellence?
 
+
+## Flyouts 
+
+Flyouts for teaching focused positions varied based on the type of school, but they always included a teaching demonstration. The teaching demonstration at each type of institution was a mixed bag of either a “mock” class to search committee with some students or guest teaching a real class. 
+
+Small liberal arts institutions will also expect for you to give a research talk. The research talks I gave were only one hour long, and the audience included the search committee, other members of the department, and advanced students. There was not an expectation to adjust the job market talk to the undergraduate level. However, students were interested in my research, so it is important to be prepared to explain it to an undergraduate audience.
+
+At a small liberal arts college, you will meet with students, and it’s very important for them to like you! It was not given that I would meet with students at a larger university. In some cases, this was due to the timing of the flyout and the end of the fall semester. I believe it’s a good gauge of the culture of the department as to whether students are included or not.
+I have included some questions below that I think are smart to ask students while interacting with them.
+
+
+### Questions to ask students during the flyout
+1. What is your favorite (and least favorite) part about living in this town/area? What is there to do off-campus?
+2. Why did you choose this school? Has it met your expectations?
+3. What are your favorite things about the school/department? What would you change?
+4. How does mentoring/advising work here?
+
+### Questions to ask professors during the flyout
+
+1. What are your favorite things about this institution?
+2. Do you feel like you get adequate support in your teaching and your scholarship?
+3. How much latitude do you have in creating new courses?
+
+
+**I hope this information can be useful to some! If you have any further questions about my experience on the teaching-focused academic job market in economics, please *don't hesitate to reach out!* I love helping fellow educators in any way I can.**

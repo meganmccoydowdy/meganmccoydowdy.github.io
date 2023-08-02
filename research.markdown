@@ -2,6 +2,7 @@
 layout: page
 title: "Research"
 permalink: /research
+order: 1
 ---
 
 My research agenda seeks to leverage under-utilized data sources to study heterogeneous labor market outcomes to help inform optimal behavior for under-represented groups. In conducting my research, I strive to make my code and methods accessible via public availability and readability. Due to my use of various programming languages to estimate my models, I am able to provide a variety of directed undergraduate and graduate research experiences to match the different career goals of students. 

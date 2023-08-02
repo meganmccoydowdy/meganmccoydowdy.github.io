@@ -2,6 +2,7 @@
 layout: page
 title: "Teaching"
 permalink: /teaching
+order: 2
 ---
 
 Three basic tenets guide my teaching: 
