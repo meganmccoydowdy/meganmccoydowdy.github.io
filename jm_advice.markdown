@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Job Market Advice"
-permalink: /jobmarket
+title: "Teaching Job Market Advice"
+permalink: /teachingjobmarket
 ---
 
 While participating in the 2022-23 economics job market in search of a teaching-focused position, I found that the internet was lacking resources for my job market search: small liberal arts colleges and teaching (clinical) positions at larger universities. On this page, I hope to provide some job market advice and link to my documents with the goal of helping other individuals on the teaching market. While the information on this page reflects upon my own experience, I believe I had a successful market with 59 applications, 24 interview requests (18 completed), 9 flyout requests (5 completed), and 4 offers. 
@@ -27,7 +27,21 @@ For a small liberal arts college, a professorship position requires research alo
 
 - [Research Statement](https://drive.google.com/file/d/1Uk1CneJDWBEhgZa8m41aNG946-ekph6R/view?usp=sharing){:target="_blank"}
 
-## Interviews and Timing
+## Job Market Timing 
+
+
+##  Interviews
+
+For each interview, I dedicated a page in my job market notebook with the general information about the posting and pre-written questions that I wanted answers to with space for those answers (see below for some of the questions I asked). The notebook provided a centralized location for the information that interviewers gave me as well as my impressions of the interview. (These information sheets became especially useful for reference if I was asked to do a flyout.) 
+
+A useful piece of advice I received during the process was to not ask questions easily answerable by the website and/or posting. Before each interview, I would take notes about the posting, explore the departmental website, and check out your interviewers’ webpages. 
+Some things to look for: 
+- Is there a single introductory course or is it broken up into micro and macro?
+- What clubs and/or societies exist for economics students? (Prepare to answer how you could provide support to these clubs and/or provide a service to the department by sponsoring something new)
+- Are your interviewers in the same field as you? Are they tenure-track or teaching professors? 
+
+This should go without saying, but **smile in your interviews** and be excited about your interaction with your interviewers! As my advisor told me, the search committee is looking for a colleague: someone with whom they can collaborate and would enjoy hanging out with at departmental events. While interviews can seem daunting, especially for jobs you’re really interested in, be sure to smile and be relaxed! And if anything goes wrong (faulty internet, cat walks across your desk, noisy lawn-care or neighbors), quickly acknowledge it and move on.
+
 
 ### Interview questions I was asked
 
