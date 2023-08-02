@@ -4,16 +4,16 @@ title: "Teaching"
 permalink: /teaching
 ---
 
-## Berry College, Rome, Georgia
+## Teaching Philosophy
 
-### Assistant Professor of Economics
+
+## Teaching Experience
+
+### Assistant Professor of Economics, Berry College, Rome, Georgia
 
 - **Markets and Society** (Fall 2023)
 
-
-## University of North Carolina at Chapel Hill
-
-### Instructor of Record
+### Graduate Instructor of Record, University of North Carolina at Chapel Hill
 
 - **Intermediate Microeconomic Theory** ([Summer 2022 Course Evaluations](https://drive.google.com/file/d/1BMYlQrLQC4Qpt8x_T-HX1DHAT24V1CUM/view?usp=sharing){:target="_blank"}, [Summer 2021 Course Evaluations](https://drive.google.com/file/d/1R8QnHFKJKf6mZ40ldRdjmd-uhp-5rbB0/view?usp=sharing){:target="_blank"})
   - Adapted departmental material for this undergraduate economics and business majors' pre-requisite course to provide student-centered lectures and recitations in which students applied concepts during lecture and practiced problem-solving skills in collaborative learning activities during recitations
@@ -23,7 +23,7 @@ permalink: /teaching
   - Designed a course in which upper-level undergraduate economics majors applied theory in problem sets and exams, analyzed journal articles, and worked in teams to create policy responses and evaluate the best course of action through forum discussions
   - Incorporated classroom technology to create an interactive experience for fully remote delivery
 
-### Teaching Assistant
+### Graduate Teaching Assistant, University of North Carolina at Chapel Hill
 
 - **Undergraduate Learning Assistant Seminar** (Fall 2020 - Spring 2023)
   - Co-instructed a seminar to support first-time undergraduate learning assistants who work with an economics instructor to enhance the learning experience for students in the instructor's course
@@ -31,7 +31,6 @@ permalink: /teaching
 
 - **Teacher Training Program** (Fall 2021 - 2022)
   - Co-instructed a two-semester seminar series on pedagogical research and best practices for economics graduate students working as teaching assistants and instructors of record for the first time
-
 
 - **Intermediate Microeconomic Theory** (Spring 2020)
   - Led weekly recitations to three sections of students to support deeper exploration of the course material, provide personalized feedback in a small class setting, and communicate common areas of confusion to the instructor
@@ -41,7 +40,7 @@ permalink: /teaching
   - Worked within a teaching team of instructors, undergraduate learning assistants, and fellow graduate teaching assistants to provide a personalized learning experience to a 500-student introductory course
   - Collaborated with the instructors and graduate teaching assistants to design, manage, and grade project deliverables and exams
 
-### Grader
+### Graduate Grader, University of North Carolina at Chapel Hill
 
 - **Market Failures** (Fall 2020)
 
@@ -49,7 +48,6 @@ permalink: /teaching
 
 - **Econometrics and Advanced Econometrics** (Fall 2018)
 
-## IMG Academy, Bradenton, Florida
+### Upper School Teacher, IMG Academy, Bradenton, Florida
 
-### Upper School Teacher 
 - **Algebra II & Pre-Calculus** (Academic Year 2017-18)
