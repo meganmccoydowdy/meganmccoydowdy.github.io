@@ -4,16 +4,21 @@ title: "Teaching"
 permalink: /teaching
 ---
 
-## Teaching Philosophy
+## Philosophy
+Three basic tenets guide my teaching: 
+- I implement pedagogical best practices because I care about teaching well; 
+- I foster a supportive learning environment because I want every student to have confidence in their ability to succeed; 
+- and I promote students' holistic development because I want my courses to benefit students beyond the final exam. 
 
+While I have experience teaching effectively, I follow education research and attend conferences and workshops to continue improving my teaching practice. 
 
-## Teaching Experience
+## Experience
 
 ### Assistant Professor of Economics, Berry College, Rome, Georgia
 
 - **Markets and Society** (Fall 2023)
 
-### Graduate Instructor of Record, University of North Carolina at Chapel Hill
+### Instructor of Record, University of North Carolina at Chapel Hill
 
 - **Intermediate Microeconomic Theory** ([Summer 2022 Course Evaluations](https://drive.google.com/file/d/1BMYlQrLQC4Qpt8x_T-HX1DHAT24V1CUM/view?usp=sharing){:target="_blank"}, [Summer 2021 Course Evaluations](https://drive.google.com/file/d/1R8QnHFKJKf6mZ40ldRdjmd-uhp-5rbB0/view?usp=sharing){:target="_blank"})
   - Adapted departmental material for this undergraduate economics and business majors' pre-requisite course to provide student-centered lectures and recitations in which students applied concepts during lecture and practiced problem-solving skills in collaborative learning activities during recitations
