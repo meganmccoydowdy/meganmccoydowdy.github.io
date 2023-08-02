@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+
+
+Here is a [link to my CV](https://drive.google.com/file/d/1UXntMu68kFZ6SdD_oANxEx1yWfcZgCJQ/view?usp=sharing){:target="_blank"}.

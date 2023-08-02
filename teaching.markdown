@@ -4,11 +4,10 @@ title: "Teaching"
 permalink: /teaching
 ---
 
-## Philosophy
 Three basic tenets guide my teaching: 
-- I implement pedagogical best practices because I care about teaching well; 
-- I foster a supportive learning environment because I want every student to have confidence in their ability to succeed; 
-- and I promote students' holistic development because I want my courses to benefit students beyond the final exam. 
+1. I implement pedagogical best practices because I care about teaching well; 
+2. I foster a supportive learning environment because I want every student to have confidence in their ability to succeed; 
+3. and I promote students' holistic development because I want my courses to benefit students beyond the final exam. 
 
 While I have experience teaching effectively, I follow education research and attend conferences and workshops to continue improving my teaching practice. 
 
