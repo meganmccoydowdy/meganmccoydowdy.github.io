@@ -37,8 +37,8 @@ institute_logo: berry_logo.jpg
 institute_url: https://berry.edu
 
 # Build settings
-theme: academic-minima 
-# remote-theme: academicbio/academic-minima
+# theme: academic-minima 
+remote-theme: academic-minima
 plugins:
   - jekyll-feed
 
