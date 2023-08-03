@@ -9,6 +9,6 @@ Welcome to my website!
 
 I work as an Assistant Professor of Economics in the Campbell School of Business at Berry College teaching the introductory economics course, Markets and Society, to future (unsuspecting) economics enthusiasts!   
 
-Come sit a spell to learn about my research and teaching, or read my advice for an teaching-focused, academic job market in economics. 
+Come sit a spell to learn about my research and teaching, or read my advice for a teaching-focused, academic job market in economics. 
 
 If you want the shorter version, here is a [link to my CV](https://drive.google.com/file/d/1UXntMu68kFZ6SdD_oANxEx1yWfcZgCJQ/view?usp=sharing){:target="_blank"}.
