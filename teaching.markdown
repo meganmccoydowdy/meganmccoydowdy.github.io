@@ -16,42 +16,43 @@ While I have experience teaching effectively, I follow education research and at
 
 ### Assistant Professor of Economics, Berry College, Rome, Georgia
 
-- **Markets and Society** (Fall 2023)
+- **ECO 110: Markets and Society** (Spring 2024, Fall 2023)
+- **ECO 310: History of Economic Thought** (Spring 2024)
 
 ### Instructor of Record, University of North Carolina at Chapel Hill
 
-- **Intermediate Microeconomic Theory** ([Summer 2022 Course Evaluations](https://drive.google.com/file/d/1BMYlQrLQC4Qpt8x_T-HX1DHAT24V1CUM/view?usp=sharing){:target="_blank"}, [Summer 2021 Course Evaluations](https://drive.google.com/file/d/1R8QnHFKJKf6mZ40ldRdjmd-uhp-5rbB0/view?usp=sharing){:target="_blank"})
+- **ECON 410: Intermediate Microeconomic Theory** ([Summer 2022 Course Evaluations](https://drive.google.com/file/d/1BMYlQrLQC4Qpt8x_T-HX1DHAT24V1CUM/view?usp=sharing){:target="_blank"}, [Summer 2021 Course Evaluations](https://drive.google.com/file/d/1R8QnHFKJKf6mZ40ldRdjmd-uhp-5rbB0/view?usp=sharing){:target="_blank"})
   - Adapted departmental material for this undergraduate economics and business majors' pre-requisite course to provide student-centered lectures and recitations in which students applied concepts during lecture and practiced problem-solving skills in collaborative learning activities during recitations
   - Integrated classroom technologies to provide a hybrid learning environment in 2021
 
-- **Labor Economics** ([Summer 2020 Course Evaluations](https://drive.google.com/file/d/17JvViQ0njJDOqKK3IFPXXMIt2BMPUd71/view?usp=sharing){:target="_blank"})
+- **ECON 480: Labor Economics** ([Summer 2020 Course Evaluations](https://drive.google.com/file/d/17JvViQ0njJDOqKK3IFPXXMIt2BMPUd71/view?usp=sharing){:target="_blank"})
   - Designed a course in which upper-level undergraduate economics majors applied theory in problem sets and exams, analyzed journal articles, and worked in teams to create policy responses and evaluate the best course of action through forum discussions
   - Incorporated classroom technology to create an interactive experience for fully remote delivery
 
 ### Graduate Teaching Assistant, University of North Carolina at Chapel Hill
 
-- **Undergraduate Learning Assistant Seminar** (Fall 2020 - Spring 2023)
+- **ECON 291: Undergraduate Learning Assistant Seminar** (Fall 2020 - Spring 2023)
   - Co-instructed a seminar to support first-time undergraduate learning assistants who work with an economics instructor to enhance the learning experience for students in the instructor's course
   - Collaborated with my co-instructor to design a seminar that allows undergraduate learning assistants to explore pedagogical best practices and to reflect upon their practicum experience as it relates to pedagogical best practices
 
-- **Teacher Training Program** (Fall 2021 - 2022)
+- **ECON 805, 806: Teacher Training Program** (Fall 2021 - 2022)
   - Co-instructed a two-semester seminar series on pedagogical research and best practices for economics graduate students working as teaching assistants and instructors of record for the first time
 
-- **Intermediate Microeconomic Theory** (Spring 2020)
+- **ECON 410: Intermediate Microeconomic Theory** (Spring 2020)
   - Led weekly recitations to three sections of students to support deeper exploration of the course material, provide personalized feedback in a small class setting, and communicate common areas of confusion to the instructor
   - Transitioned recitation sections to remote instruction in the second half of the semester.
 
-- **Introduction to Entrepreneurship** (Fall 2019)
+- **ECON 125: Introduction to Entrepreneurship** (Fall 2019)
   - Worked within a teaching team of instructors, undergraduate learning assistants, and fellow graduate teaching assistants to provide a personalized learning experience to a 500-student introductory course
   - Collaborated with the instructors and graduate teaching assistants to design, manage, and grade project deliverables and exams
 
 ### Graduate Grader, University of North Carolina at Chapel Hill
 
-- **Market Failures** (Fall 2020)
+- **ECON 415: Market Failures** (Fall 2020)
 
-- **History of Economic Thought** (Spring 2019)
+- **ECON 434: History of Economic Thought** (Spring 2019)
 
-- **Econometrics and Advanced Econometrics** (Fall 2018)
+- **ECON 470: Econometrics and ECON 570: Advanced Econometrics** (Fall 2018)
 
 ### Upper School Teacher, IMG Academy, Bradenton, Florida
 
