@@ -3,14 +3,22 @@
 
 @import "academic-minima";
 
-title {
-    color: #A2AAAD;
+title, h3 {
+    color: #501315;
    }
 
-h1, h3 {
-    color: #00205B;
+h1 {
+    color: #b29d6c;
    }
 
 a, h2 {
-    color: #0085CA;
+    color: #8a100b;
    }
+
+h3 {
+	 color: #726158;
+    }	 
+
+a:visited {
+    color: #501315; 	
+   }	

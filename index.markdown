@@ -7,8 +7,8 @@ layout: home
 
 Welcome to my website! 
 
-I work as an Assistant Professor of Economics in the Campbell School of Business at Berry College teaching the introductory economics course, Markets and Society, to future (unsuspecting) economics enthusiasts!   
+I work as an Assistant Professor of the Practice in the Department of Economics at Boston College teaching Microeconomic Theory (intermediate-level) and History of Economic Thought.
 
 Come sit a spell to learn about my research and teaching, or read my advice for a teaching-focused, academic job market in economics. 
 
-If you want the shorter version, here is a [link to my CV](https://drive.google.com/file/d/1UXntMu68kFZ6SdD_oANxEx1yWfcZgCJQ/view?usp=sharing){:target="_blank"}.
+If you want the shorter version, here is a [link to my CV](https://drive.google.com/file/d/1UXntMu68kFZ6SdD_oANxEx1yWfcZgCJQ/view?usp=drive_link){:target="_blank"}.

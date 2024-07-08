@@ -9,6 +9,8 @@ My research agenda seeks to leverage under-utilized data sources to study hetero
 
 My current line of research focuses on workplace flexibility (i.e., flexible workplace policies such as work-from-home and the ability to define one's work schedule) and understanding the empirical fact that there is a positive relationship between wages and flexibility.
 
+Additionally, I am pursuing pedagogical research to explore effective teaching methods in my classroom. 
+
 ## Working Papers
 
 - Wage Returns to Workplace Flexibility (Job Market Paper) [(PDF)](https://drive.google.com/file/d/1JYs3HwU0UEDgomSug0wL4KAxzeeB45ML/view){:target="_blank"} 
@@ -16,6 +18,8 @@ My current line of research focuses on workplace flexibility (i.e., flexible wor
 - Workplace Flexibility in a Labor Search Model [(Repository)](https://github.com/meganmccoydowdy/flexibility-in-search-model){:target="_blank"}
 
 ## Works in Progress
+
+- Implementing a Constructivist Design to Promote DEI in History of Economic Thought
 
 - What is the Future of Work? Analyzing UNC's Remote Work Pilot Program
 
