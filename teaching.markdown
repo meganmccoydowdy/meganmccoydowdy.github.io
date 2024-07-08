@@ -14,12 +14,16 @@ While I have experience teaching effectively, I follow education research and at
 
 ## Experience
 
+### Assistant Professor of the Practice, Economics, Boston College
+- **ECON 2201: Microeconomic Theory** (Fall 2024, expected Spring 2025)
+- **ECON 3712: History of Economic Thought** (expected Spring 2025)
+
 ### Assistant Professor of Economics, Berry College, Rome, Georgia
 
 - **ECO 110: Markets and Society** (Spring 2024, Fall 2023)
 - **ECO 310: History of Economic Thought** (Spring 2024)
 
-### Instructor of Record, University of North Carolina at Chapel Hill
+### Instructor of Record, Economics, University of North Carolina at Chapel Hill
 
 - **ECON 410: Intermediate Microeconomic Theory** ([Summer 2022 Course Evaluations](https://drive.google.com/file/d/1BMYlQrLQC4Qpt8x_T-HX1DHAT24V1CUM/view?usp=sharing){:target="_blank"}, [Summer 2021 Course Evaluations](https://drive.google.com/file/d/1R8QnHFKJKf6mZ40ldRdjmd-uhp-5rbB0/view?usp=sharing){:target="_blank"})
   - Adapted departmental material for this undergraduate economics and business majors' pre-requisite course to provide student-centered lectures and recitations in which students applied concepts during lecture and practiced problem-solving skills in collaborative learning activities during recitations
